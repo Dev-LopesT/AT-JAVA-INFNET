@@ -1,0 +1,3 @@
+Produto: Jogo de Talheres, Quantidade: 1, Preço unitário: R$ 20.0
+Produto: Jogo de mesa, Quantidade: 2, Preço unitário: R$ 30.0
+Produto: Jogo de cadeira , Quantidade: 1, Preço unitário: R$ 30.0
